@@ -1,4 +1,7 @@
-%% ah_onehit.m
+% CLAUDE.AI OPUS 5.5 HIGH model (incognito) was given paper and asked to reproduce the code, it was able to correctly
+% reproduce the disease states found in figure 4.
+
+
 % One-hit ethanol simulation of the flux-centric, coarse-grained hepatocyte
 % model (Shoraka & Vadigepalli). Written from the manuscript equations only.
 % Requires MATLAB R2016b+ (local functions in scripts, implicit expansion).
